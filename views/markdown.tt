@@ -1,0 +1,4 @@
+<% USE Markdown -%>
+<% FILTER markdown %>
+<% INSERT $file %>
+<%- END %>
